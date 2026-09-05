@@ -1,5 +1,5 @@
 # Digital Democracy Intelligence Platform
- LIVE DEPLOYED LINK -
+ LIVE DEPLOYED LINK - https://6a211d491--national-government-intelligence-grid.netlify.app/
 
 A comprehensive platform for monitoring and managing governance systems, including real-time crisis management, fraud detection, and action tracking.
 

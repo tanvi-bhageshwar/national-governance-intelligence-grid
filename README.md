@@ -1,4 +1,5 @@
 # Digital Democracy Intelligence Platform
+ LIVE DEPLOYED LINK -
 
 A comprehensive platform for monitoring and managing governance systems, including real-time crisis management, fraud detection, and action tracking.
 
